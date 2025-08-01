@@ -7,7 +7,7 @@ int main()
      getch();
 
      printf("Welcome to the world of programming");
-     printf("Welcome to the world of programming");
+     printf("Messi Goat");
      getch();
      
      return 0;
