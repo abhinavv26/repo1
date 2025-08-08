@@ -6,7 +6,7 @@ int main()
      printf("Welcome to the world of programming");
      getch();
 
-     printf("Welcome to the world of programming");
+     printf("I am the king of the world");
      printf("Messi Goat");
      getch();
      
